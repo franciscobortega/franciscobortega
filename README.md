@@ -1,8 +1,8 @@
-### Hi there! I'm Bryan
+### Hi there! I'm Bryan 👋
 
-I am a student at Southern New Hampshire University, pursuing a BSE in Computer Science. My interests include full-stack web development and UI/UX design.
+I recently completed the Full-Stack Software Engineering bootcamp from Hackbright Academy. 
 
-I'm currently enrolled in the Software Engineering bootcamp from Hackbright Academy. In my free time, I enjoy working out, learning new things, discovering new music, and exploring new places.
+In my free time, I enjoy working out, learning new things, discovering new music, and exploring new places.
 
 <!--
 **franciscobortega/franciscobortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

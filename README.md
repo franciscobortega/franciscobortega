@@ -4,6 +4,17 @@ I recently completed the Full-Stack Software Engineering bootcamp from Hackbrigh
 
 In my free time, I enjoy working out, learning new things, discovering new music, and exploring new places.
 
+<hr>
+
+🎥 I recently started a TikTok account that will feature regular content like:
+* Current projects or studies
+* Exciting opportunities for non-traditional individuals and new grads
+* Daily leetcode
+* Interview tips and recommendations
+* The occasional (maybe cringy) motivational video
+
+Anyways, feel free to support with a like, comment, or follow! 😊
+
 <!--
 **franciscobortega/franciscobortega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

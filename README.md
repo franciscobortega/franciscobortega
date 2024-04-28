@@ -1,6 +1,6 @@
 ### Hi there! I'm Bryan 👋
 
-I recently completed the Full-Stack Software Engineering bootcamp from Hackbright Academy. 
+I'm a SWE with a non-traditional path, reach out to me for any questions/advice!
 
 In my free time, I enjoy working out, learning new things, discovering new music, and exploring new places.
 
